@@ -31,7 +31,7 @@ Make sure you have Node.js and Expo CLI installed on your system. Then, follow t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kelompok9_MovieApp.git)
+   git clone https://github.com/MovieAppProgate/Kelompok9_MovieApp
    
    cd movie-app
 
