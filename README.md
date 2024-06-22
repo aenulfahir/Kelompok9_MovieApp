@@ -42,7 +42,7 @@ Make sure you have Node.js and Expo CLI installed on your system. Then, follow t
    ```bash
    npm start
    
-   Or
+ Or
    
 4. Open the Expo Go app on your device or emulator to view the app.
 
