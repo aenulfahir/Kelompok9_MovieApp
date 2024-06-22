@@ -33,8 +33,7 @@ Make sure you have Node.js and Expo CLI installed on your system. Then, follow t
    ```bash
    git clone https://github.com/kelompok_/movie-app.git
    
-```bash
-cd movie-app
+   cd movie-app
 
 2. Install dependencies:
    ```bash
