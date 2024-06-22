@@ -29,13 +29,17 @@ This application is an example of a React Native app using Expo to facilitate cr
 Make sure you have Node.js and Expo CLI installed on your system. Then, follow these steps:
 
 1. Clone the repository:
-  git clone https://github.com/kelompok_/movie-app.git
-  cd movie-app
+
+   ```bash
+   git clone https://github.com/kelompok_/movie-app.git
+   cd movie-app
 
 2. Install dependencies:
+   ```bash
    npm install
    
 4. Start the application:
+   ```bash
    npm start
    
    Or
